@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Barbos.Contracts\Barbos.Contracts.csproj" />
+    <ProjectReference Include="..\..\src\Barbos.Voice\Barbos.Voice.csproj" />
+  </ItemGroup>
+
+</Project>
