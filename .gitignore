@@ -427,3 +427,21 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# ---- Barbos ----
+
+# Whisper models: качаются отдельно, в репозиторий не кладём
+*.bin
+
+# Записанные образцы речи и отчёты стенда
+samples/
+results/
+*.wav
+
+# Локальные переопределения конфигурации
+appsettings.Local.json
+appsettings.*.local.json
