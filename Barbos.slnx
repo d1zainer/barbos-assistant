@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Barbos.Contracts/Barbos.Contracts.csproj" />
+    <Project Path="src/Barbos.Voice/Barbos.Voice.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/Barbos.SpeechLab/Barbos.SpeechLab.csproj" />
+  </Folder>
+</Solution>
